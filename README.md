@@ -12,6 +12,11 @@ I'm Lisii! :smile:
 
 :star: Here are some projects that I'm working on:
 
+- [Automatic Radar Positioning System for Robomaster](https://github.com/Alliance-Algorithm/ARPS)
+- [Self-stable flight control based on Dji Onboard SDK](https://github.com/Alliance-Algorithm/rmcs_flight)
+- [Energy Organ Simulator in Unity](https://github.com/Alliance-Algorithm/EnergyOrganSimulator)
+- ...
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lisiiii)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lisiiii)](https://git.io/streak-stats)
