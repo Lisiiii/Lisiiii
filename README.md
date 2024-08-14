@@ -8,6 +8,7 @@ I'm Lisii! :smile:
 ![C#](https://img.shields.io/badge/Csharp-%2302569B.svg?style=for-the-badge&logo=sharp&logoColor=white)
 ![ShaderLab](https://img.shields.io/badge/ShaderLab/HLSL-%230175C2.svg?style=for-the-badge&logo=resharper&logoColor=white)
 ![unity](https://img.shields.io/badge/Unity-%2311234.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%230258.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
 
 :star: Here are some projects that I'm working on:
