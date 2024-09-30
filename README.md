@@ -6,6 +6,7 @@ I'm Lisii! :smile:
 
 ![C++](https://img.shields.io/badge/C/C++-%230175C2.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/Csharp-%2302569B.svg?style=for-the-badge&logo=sharp&logoColor=white)
+![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=blue&color=white)
 ![ShaderLab](https://img.shields.io/badge/ShaderLab/HLSL-%230175C2.svg?style=for-the-badge&logo=resharper&logoColor=white)
 ![unity](https://img.shields.io/badge/Unity-%2311234.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%230258.svg?style=for-the-badge&logo=blender&logoColor=white)
