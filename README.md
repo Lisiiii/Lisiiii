@@ -34,6 +34,4 @@ I'm Lrinaus! :smile:
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lisiiii)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lisiiii)](https://git.io/streak-stats)
-
 Brand new account, brand new start. Let's create! :wrench:
