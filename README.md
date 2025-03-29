@@ -16,8 +16,7 @@ I'm Lrinaus! :smile:
 :star: Here are some projects that I'm working on:
 
 - [Automatic Radar Positioning System for Robomaster based on Unity](https://github.com/Lisiiii/ARPS-unity)
-
-  <img src="https://github.com/user-attachments/assets/ef4082a9-ffe1-422c-9319-204f552e7531"  height="200" /> <img src="https://github.com/user-attachments/assets/6cf600d3-bfc2-4260-9031-1aaaeab69cb5"  height="200" />
+   <img src="https://github.com/user-attachments/assets/f8b5c5b9-75fe-4172-8662-a5502157e7d0"  height="200" />
 - [Self-stable flight control based on Dji Onboard SDK](https://github.com/Alliance-Algorithm/rmcs_flight)
 
   <img src="https://github.com/user-attachments/assets/792e1a9b-1c09-4328-86e6-24a066137401"  height="300" />
